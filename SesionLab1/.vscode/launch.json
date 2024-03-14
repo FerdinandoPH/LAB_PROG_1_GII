@@ -1,0 +1,48 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Testeando",
+      "request": "launch",
+      "mainClass": "poao.testeo.Testeando",
+      "projectName": "SesionLab1"
+    },
+    {
+      "type": "java",
+      "name": "clase3",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.clase3",
+      "projectName": "SesionLab1",
+      "args": "pepito"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "SesionLab1",
+      "request": "launch",
+      "mainClass": "poao.sesionlab1.SesionLab1",
+      "projectName": "SesionLab1"
+    },
+    {
+      "type": "java",
+      "name": "clase2",
+      "request": "launch",
+      "mainClass": "poao.sesionlab1.clase2",
+      "projectName": "SesionLab1",
+      "args": [
+        "1",
+        "2",
+        "3"
+      ]
+    }
+  ]
+}

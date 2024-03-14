@@ -1,0 +1,175 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.Main",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Main",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjM4",
+      "request": "launch",
+      "mainClass": "poao.DeberesMedia.EjM4",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB10",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB10",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.Test",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB9",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB9",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB8",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB8",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB7",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB7",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB6",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB6",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB4",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB4",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB2",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB2",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "EjB1",
+      "request": "launch",
+      "mainClass": "poao.SesionLab2.EjB1",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Test",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej9",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej9",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej8",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej8",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "TestRapido",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.TestRapido",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej7",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej7",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej5",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej5",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej4",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej4",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej3",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej3",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Ej2",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej2",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Ej1",
+      "request": "launch",
+      "mainClass": "poao.ejercicios.Ej1",
+      "projectName": "SesionLab2"
+    },
+    {
+      "type": "java",
+      "name": "SesionLab2",
+      "request": "launch",
+      "mainClass": "poao.sesionlab2.SesionLab2",
+      "projectName": "SesionLab2"
+    }
+  ]
+}

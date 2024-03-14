@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PruebaVehiculosConductores",
+            "request": "launch",
+            "mainClass": "poao.sesionlab4.Ej5.PruebaVehiculosConductores",
+            "projectName": "SesionLab4"
+        },
+        {
+            "type": "java",
+            "name": "TestVehiculos",
+            "request": "launch",
+            "mainClass": "poao.sesionlab4.EjParking.TestVehiculos",
+            "projectName": "SesionLab4"
+        },
+        {
+            "type": "java",
+            "name": "PruebaTaller",
+            "request": "launch",
+            "mainClass": "poao.sesionlab4.EjTaller.PruebaTaller",
+            "projectName": "SesionLab4"
+        },
+        {
+            "type": "java",
+            "name": "SesionLab4",
+            "request": "launch",
+            "mainClass": "poao.sesionlab4.SesionLab4",
+            "projectName": "SesionLab4"
+        },
+        {
+            "type": "java",
+            "name": "PruebaVehiculos2",
+            "request": "launch",
+            "mainClass": "poao.sesionlab4.vehiculosYLamparas.PruebaVehiculos2",
+            "projectName": "SesionLab4"
+        },
+        {
+            "type": "java",
+            "name": "TesteoLampara",
+            "request": "launch",
+            "mainClass": "poao.sesionlab4.vehiculosYLamparas.TesteoLampara",
+            "projectName": "SesionLab4"
+        },
+        {
+            "type": "java",
+            "name": "NominaTest",
+            "request": "launch",
+            "mainClass": "poo.empleados.nominas.NominaTest",
+            "projectName": "SesionLab4"
+        }
+    ]
+}

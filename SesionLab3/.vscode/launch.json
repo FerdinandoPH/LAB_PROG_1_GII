@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ej6b",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej6b",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej7b",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej7b",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej5b",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej5b",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej6",
+            "request": "launch",
+            "mainClass": "poao.arrays.Ej6",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej7",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej7",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "poao.strings.Main",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej6",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej6",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej5",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej5",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej4",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej4",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej3",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej3",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej2",
+            "request": "launch",
+            "mainClass": "poao.strings.Ej2",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej5",
+            "request": "launch",
+            "mainClass": "poao.arrays.Ej5",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "poao.arrays.Main",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej4",
+            "request": "launch",
+            "mainClass": "poao.arrays.Ej4",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "poao.modularidad.Main",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej2",
+            "request": "launch",
+            "mainClass": "poao.arrays.Ej2",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej1",
+            "request": "launch",
+            "mainClass": "poao.arrays.Ej1",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej5",
+            "request": "launch",
+            "mainClass": "poao.modularidad.Ej5",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ej1",
+            "request": "launch",
+            "mainClass": "poao.modularidad.Ej1",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "Ej2",
+            "request": "launch",
+            "mainClass": "poao.modularidad.Ej2",
+            "projectName": "SesionLab3"
+        },
+        {
+            "type": "java",
+            "name": "SesionLab3",
+            "request": "launch",
+            "mainClass": "poao.sesionlab3.SesionLab3",
+            "projectName": "SesionLab3"
+        }
+    ]
+}
