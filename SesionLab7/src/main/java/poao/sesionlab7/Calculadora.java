@@ -464,12 +464,8 @@ public class Calculadora extends javax.swing.JFrame {
             }
             if (huecos!=arrayDentro.length)
                 throw new IllegalArgumentException("Operador sin operando");
-            ArrayList<String> resultadosParentesis = new ArrayList<String>();
-            for (String e:arrayDentro){
-                resultadosParentesis.add(calcular(e));
-            }
             for (int i=0;i<arrayDentro.length;i++){
-                expresion = expresion.replace("("+arrayDentro[i]+")", resultadosParentesis.get(i));
+                expresion = expresion.replaceFirst("("+arrayDentro[i]+")", calcular(arrayDentro[i]));
             }
         }
         ArrayList<String> elementos = new ArrayList<String>(Arrays.asList(expresion.split("(?<=\\d)(?=[-+*/])|(?<=[-+*/])(?=\\d)")));
