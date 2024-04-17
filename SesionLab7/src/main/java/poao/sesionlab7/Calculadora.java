@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.regex.Pattern;
 /**
  *
  * @author perez
@@ -465,8 +466,10 @@ public class Calculadora extends javax.swing.JFrame {
             if (huecos!=arrayDentro.length)
                 throw new IllegalArgumentException("Operador sin operando");
             for (int i=0;i<arrayDentro.length;i++){
-                expresion = expresion.replaceFirst("("+arrayDentro[i]+")", calcular(arrayDentro[i]));
+                System.out.println("Expresión dentro: "+Pattern.quote("("+arrayDentro[i]+")"));
+                expresion = expresion.replaceFirst(Pattern.quote("("+arrayDentro[i]+")"), calcular(arrayDentro[i]));
             }
+            System.out.println("Nueva expresión: "+expresion);
         }
         ArrayList<String> elementos = new ArrayList<String>(Arrays.asList(expresion.split("(?<=\\d)(?=[-+*/])|(?<=[-+*/])(?=\\d)")));
         System.out.println("Elementos: "+elementos.toString());
